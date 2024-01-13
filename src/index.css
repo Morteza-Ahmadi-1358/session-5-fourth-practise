@@ -1,0 +1,15 @@
+@font-face {
+  font-family: IranYekan;
+  src: url(./fonts/iranyekanwebregular.ttf);
+}
+body{
+  direction: rtl;
+  font-family: IranYekan;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2rem;
+}
+.img-box:hover{
+  cursor: pointer;
+  transform: translateY(-2px);
+}
